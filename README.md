@@ -21,7 +21,7 @@
 - **AIS3 My First CTF** | 5/25
 - **SITCON** | 3/9
 - **TeamT5 Security Camp 資安培訓營** | 1/23 - 1/25 & 1/31 - 2/1
-- **TSCC** | 1/19 - 1/22
+- **TSCCTF** | 1/19 - 1/22
 - **AIS3 EOF** | 1/5 - 1/7
 
 2023
