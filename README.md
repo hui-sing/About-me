@@ -9,7 +9,7 @@
 **Certification**
 ---
 - **iPAS 資訊安全工程師 初級**
-
+- **iPAS 資訊安全工程師 中級**
 ----------------------------
 **Professional experience**
 -----
